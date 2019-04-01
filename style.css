@@ -14,11 +14,12 @@ h1 {
   border-width: 5px;
   border-style: dashed;
   border-color: red;
-  
+
 }
 
 h2 {
   text-decoration: underline;
+  color: #006400;
 }
 
 body {
@@ -28,4 +29,17 @@ body {
 p {
   font-size: 12px;
   text-decoration: line-through;
+  color: #006400;
+}
+
+#intro {
+    border: 1px;
+    border-style: solid;
+    border-color: red;
+}
+
+.spotlight
+{
+  background-color: #FEFE22;
+
 }
